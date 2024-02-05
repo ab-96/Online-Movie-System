@@ -21,7 +21,7 @@ function App() {
 
 
   return (
-    <div className="bg-vDBlue ">
+    <div className="bg-vDBlue flex flex-col min-h-screen">
       <Header />
       <SearchBox getSearch={userInputs} getGenre={getSelectedGenre}  genre={genre}/>
       <Movies searchTerm={search} genre={genre}/>
