@@ -11,6 +11,7 @@ export default {
       dBlue: "rgb(15,22,34)",
       vDBlue: "rgb(2,9,22)",
       lBlue : "rgb(86,92,103)",
+      limeGreen: "rgb(94,201,5)",
       white: "hsl(0, 0%, 100%)",
       dGrey: " hsl(0, 0%, 52%)",
       lGrey: "hsl(0, 0%, 98%)",
