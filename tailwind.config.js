@@ -8,8 +8,9 @@ export default {
       nunito: ["Nunito Sans", "sans-serif"],
     },
     colors: {
-      dBlue: "hsl(209, 23%, 22%)",
-      vDBlue: "hsl(207, 26%, 17%)",
+      dBlue: "rgb(15,22,34)",
+      vDBlue: "rgb(2,9,22)",
+      lBlue : "rgb(86,92,103)",
       white: "hsl(0, 0%, 100%)",
       dGrey: " hsl(0, 0%, 52%)",
       lGrey: "hsl(0, 0%, 98%)",
